@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Калькулятор вероятности</string>
+    <string name="tab_text_1">Положительные</string>
+    <string name="tab_text_2">Отрицательные</string>
+</resources>
